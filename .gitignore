@@ -1,0 +1,8 @@
+# Proyectos locales no publicados en GitHub Pages
+nbproject/
+Web-based-Emotion-Recognition-master/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
